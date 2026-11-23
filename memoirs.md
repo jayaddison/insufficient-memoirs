@@ -16,6 +16,10 @@ I've been very fortunate in life, and very lucky - despite sometimes being very 
 
 The earliest of my emails that I have access to at the moment is a pizza delivery order receipt from Papa John's on Leith Walk.
 
+My father had a strong dislike for pizza until at least the late 2000s.  I don't think that he and his peers had access to the same level of foreign cuisine as they were growing up; even so, it seemed unusual to me.  He did explain that he had a bad experience with some pizza at some point during his earlier life (perhaps in the 1970s, although I'm not sure if I am confabulating that), and that that's what dissuaded him from eating it.
+
+He was a kind and gentle person - almost always softly spoken, polite and patient.  I think he would have had a difficult time adapting to some of the environments I have worked in as an adult, but on the other hand, as a lecturer I expect that he did keep some contact with younger people, and perhaps my own perspective is biased (I know that I myself have some difficulty truly feeling comfortable and adapted to human diversity and complexity -- despite knowing rationally and in a principled manner that it is correct and important to improve support and acceptance of diverse communities; it feels possible that I project my own limitations back onto my memory of him).
+
 
 For some reason I have spent much of my adult life very self-conscious about digital privacy; some of this perhaps as a result of attending Chaos Communication Congress events in my late twenties -- but also I already had a strong leaning towards digital minimalism before and during my University education.
 
