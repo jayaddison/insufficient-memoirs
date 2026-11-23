@@ -159,6 +159,11 @@ Return to the United Kingdom
 - Yeaman Place
  - Eventually decided to rescind green card status and did so
 - Leven Close
+- Starting to become more climate-conscious
+  - Efforts at vegetarianism
+  - No more travel by aircraft
+  - Despite reticence/anger about costs, moving from gas central heating to electric central heating
+  - Investments in solar
 
 OpenCulinary / RecipeRadar
 
