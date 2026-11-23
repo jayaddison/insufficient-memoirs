@@ -17,6 +17,11 @@ I've been very fortunate in life, and very lucky - despite sometimes being very 
 The earliest of my emails that I have access to at the moment is a pizza delivery order receipt from Papa John's on Leith Walk.
 
 
+For some reason I have spent much of my adult life very self-conscious about digital privacy; some of this perhaps as a result of attending Chaos Communication Congress events in my late twenties -- but also I already had a strong leaning towards digital minimalism before and during my University education.
+
+I also feel strongly that computers should be held towards determinism - so that they are reliable as tools not just during project development, but for future generations.  This aligns with my strong belief in the FOSS (free and open source) movement -- I think that the de minimis standard for trustworthy computing is that the software code is available to be read by anyone.
+
+
 Flora Stevenson's Primary School
 
 Edinburgh Academy ('Prep' school)
