@@ -21,6 +21,10 @@ For some reason I have spent much of my adult life very self-conscious about dig
 
 I also feel strongly that computers should be held towards determinism - so that they are reliable as tools not just during project development, but for future generations.  This aligns with my strong belief in the FOSS (free and open source) movement -- I think that the de minimis standard for trustworthy computing is that the software code is available to be read by anyone.
 
+Similarly I believe in minimalist software, although there is tension between minimalism and usability - and also accessibility.  Where possible I also believe in slow-moving software.  It is difficult for adults to adapt to user interfaces and paradigms that change on a regular basis.
+
+Text-based file formats with simple syntax, and HTML are two technologies that I do like.  I think that the web has made some mis-steps, and my perspective is that some of those are a result of commercial incentives.
+
 
 Flora Stevenson's Primary School
 
