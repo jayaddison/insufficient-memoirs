@@ -41,6 +41,20 @@ Edinburgh Academy ('Prep' school)
 - I struggled to keep up during running sessions
 
 George Heriot's School
+ - AOL / stalking behaviour
+ - Constructor / German test cheating
+ - TI-83 'game'
+
+- UESC CS UKTFCL
+ - Ashamed in retrospect about the way I behaved
+ - Difficulty scheduling / being on time
+ - Did not want to play computer games often with school peers
+ - ICQ -- maybe 10481443 iirc
+   - Spamming: DoS / temporarily disconnected?
+ - https://web.archive.org/web/20051230205001/http://ecsl.far2cool.com/clan.aspx?CID=142
+ - Raptors / desert eagle
+- EdExchange
+ - https://web.archive.org/web/20030603200701/http://www.edexchange.co.uk/PostAdvert.aspx
 
 Registers of Scotland
 
