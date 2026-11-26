@@ -44,6 +44,7 @@ George Heriot's School
  - AOL / stalking behaviour
  - Constructor / German test cheating
  - TI-83 'game'
+ - First became aware that my dietary problems might not be normal
  - Usually given a lift to/from school (although lived relatively nearby - it did not occur to me to walk for a long time)
  - Molested two women; one on the Mound (Australian woman, noticeably older than me; forcibly kissed and requested more; declined.  that incident followed on from drinking alcohol, likely underage at the time). another was a teenage/near-peer girl whose breasts I allegedly grabbed from behind.  I do remember ogling them, and I remember that we were in Bertie's bar (a frequent underage haunt -- unrelated to the Bertie's fish and chip shop.  this incident involved Kieran and Kenny, both of whom have talked to me about things related to the UK security services.  Kieran helped me to attempt to get closer to Yara at one point (wherein she realised straight away I was not acting on my own).  Kenny I helped with copying of some images from an SD card from Hong Kong (?) for his sister who had been teaching English at a primary school)
 
